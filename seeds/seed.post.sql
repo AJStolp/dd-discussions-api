@@ -1,0 +1,2 @@
+INSERT INTO posts (title, body)
+   VALUES ('I need a new RPG to play', 'I just finished game x and I am looking into playing game y - however, I am unser if this is what I want to spend my time on. Any suggestions on RPG i should check out?')
